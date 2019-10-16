@@ -1,0 +1,35 @@
+
+---Downloaded files---
+The import files for: Demo Import tatee were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://cetmab.ma/jlastudio
+Data file = /home/cetmabma/public_html/jlastudio/wp-content/uploads/2019/05/demo-content-import-file_2019-05-25__12-11-42.xml
+Widget file = /home/cetmabma/public_html/jlastudio/wp-content/uploads/2019/05/demo-widgets-import-file_2019-05-25__12-11-42.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

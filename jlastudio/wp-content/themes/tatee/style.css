@@ -1,0 +1,842 @@
+/*
+Theme Name: Tatee
+Theme URI: http://themetrademark.com/demo/tatee/
+Author: Vergatheme
+Author URI: http://themetrademark.com/
+Description: In 2019, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags:  custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Text Domain: tatee 
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+body.blog {
+	margin-bottom: 0;
+}
+.logged-in .header--fixed{
+	margin-top: 32px ;
+}
+
+.comment-area-form p.comment-notes{
+	display: none;
+}
+p.form-submit input[type=submit]{
+	width: auto;
+	cursor: pointer;
+}
+
+.comment-list .children{
+	padding-left: 127px;
+	margin-bottom: 20px;
+}
+.comment-form .form-group{
+	margin-bottom: 0px;
+}
+.comment-form .form-group p{
+	margin-bottom: 0px;
+}
+p.logged-in-as{
+	margin-bottom: 30px;
+}
+p.logged-in-as a{
+	color: #222;
+}
+.tagcloud a{
+	font-size: 10pt !important;
+	display: inline-block;
+	border: 1px solid #ebebeb;
+	line-height: 1.2;
+	color: #555;
+	padding: 6.5px 20px;
+
+	margin-right: 7px;
+	margin-bottom: 10px;
+}
+.tagcloud a:hover{
+	color: #fff;
+	background-color: #222;
+}
+.ti-arrow-right{
+	color: #222;
+}
+.ti-arrow-left{
+	color: #222;
+}
+.page-numbers li.active a{
+	text-decoration: underline;
+}
+
+.textwidget{
+	margin-right: -15px;
+}
+#sbi_images{
+	padding: 0px !important;
+	margin-right: -15px;
+}
+.sbi_photo_wrap{
+	margin-right: 15px;
+	margin-bottom: 15px;
+
+}
+.sbi_photo_wrap a.sbi_photo{
+	height: 80px !important;
+	width: 80px !important; 
+}
+.widget_text .widget-title{
+	margin-bottom: 25px ;
+}
+.title-archive{
+	text-align: center;
+	padding-top: 15px;
+}
+.title-archive h3{
+	color: #222;
+}
+.value a{
+	color: #555;
+}
+
+.nav-link-2 a .number-page:hover{
+	text-decoration: underline;
+}
+.nav-link-2 a {
+	line-height: 20px;
+	margin: 0 12px;
+	color: #555;
+
+}
+
+.nav-link-2 span.current .number-page{
+
+	line-height: 20px;
+	margin: 0 12px;
+	color: #555;
+	margin-left: 24px;
+}
+.nav-link-2 .current{
+	text-decoration: underline;
+}
+
+.tp-mask-wrap h4 a{
+	color: #fff;
+	font-size: 9px;
+}
+.revo-slide .tp-bullet.selected{
+	background: none !important; 
+}
+.revo-slide .tp-bullet:hover{
+	background: none;
+}
+
+.mainhome-slide .tp-bullet.selected{
+	background: none !important; 
+}
+.mainhome-slide .tp-bullet{
+	float: left;
+}
+.mainhome-slide .tp-bullet:hover{
+	background: none !important; 
+}
+
+
+
+#pp-nav.right {
+	right: 78px !important;
+}
+#pp-nav li .active span{
+	background: none !important;
+}
+
+
+.section-col-4{
+	width: 100% !important;
+}
+
+.vertical-latest .tparrows{
+	background: none;
+}
+.vertical-latest .tparrows:hover{
+	background: #fff;
+}
+.vertical-latest .tparrows:before{
+	font-size: 30px !important;
+}
+
+
+.project-carou .tparrows{
+	background: none;
+}
+.project-carou .tparrows:hover{
+	background: none;
+}
+.project-carou .tparrows:before{
+	font-size: 60px;
+}
+
+/* css for menu */
+.menu-pc .sub-menu{
+	display: block !important;
+}
+.menu-one-slide .sub-menu{
+	display: none;
+}
+.menu-mobile .sub-menu{
+	display: none;
+}
+
+#menu-item-586 .sub-menu{
+	top: 0;
+	left: auto;
+	right: 100%;
+}
+.contact-r .vc_col-sm-4 .vc_column-inner {
+	padding-right: 0px;
+}
+
+#sb_instagram.sbi_small .sbi_type_carousel .sbi_photo_wrap .fa-clone{
+	opacity: 0;
+}
+
+/* css for woocommerce */
+
+.product_image{
+	position: absolute;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.woocommerce .star-rating span::before{
+	color: #ebcd1e;
+}
+.woocommerce-review-link{
+	color: #ebcd1e;
+	padding-top: 2px;
+}
+.woocommerce-review-link:hover{
+	color: #ebcd1e;
+}
+.woocommerce div.product p.price{
+	color: #555;
+}
+.cart{
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin-bottom: 30px;
+}
+.woocommerce-page div.product div.summary{
+	width: 58.333333%;
+	padding-right: 0px;
+}
+.woocommerce-page div.product div.images{
+	width: 41,666667%;
+	padding-left: 0px;
+	padding-right: 0px; 
+}
+.related{
+	width: 100%;
+	float: left;
+	padding-top: 70px;
+}
+
+.related-products .product .product-only{
+	float: left;
+}
+.nav-tabs .nav-link{
+	border: none;
+}
+.wc-tabs{
+	border-bottom:none ; 
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs{
+	padding: 0;
+	margin: 0;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li{
+	margin: 0;
+	border-radius: 0;
+	padding: 0;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li:not(.active):hover{
+	border: 1px solid #d3ced2;
+	border-left: none;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li:not(.active){
+	background-color: #fff;
+	border: none;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li a{
+	color:#222;
+	font-weight: inherit;
+	padding: 20px 60px;
+}
+.quantity{
+	border: 1px solid #d3ced2;
+}
+.woocommerce .quantity .qty{
+	padding: 6px 0;
+}
+.tab-content h2{
+	display: none;
+}
+.shared{
+	margin-bottom: 45px;
+}
+.woocommerce #reviews #comments ol.commentlist li img.avatar{
+	padding: 0;
+	width: 60px;
+}
+.woocommerce #reviews #comments ol.commentlist li .comment-text{
+	margin: 0 0 0 70px;
+}
+
+p.form-submit .review-submit{
+	color: #fff !important;
+	background: #222 !important;
+	line-height: 45px !important;	
+	padding: 0 23px !important;
+	font-weight: inherit !important;
+
+}
+.woocommerce  #respond textarea{
+	background: #f8f8f8;
+}
+.woocommerce  #respond input{
+	background: #f8f8f8;
+}
+.logged-in .page-wrapper .review-input{
+	padding-left: 0px;
+	padding-right: 0px;
+	float: none;
+	max-width: 100%;
+}
+.logged-in .page-wrapper .review-input textarea{
+	height: 75px !important;
+}
+.woocommerce  .review-input{
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.woocommerce  .review-input-1{
+	margin-top: 23px;
+}
+.woocommerce #respond textarea[placeholder]{
+	padding-left: 10px;
+}
+.comment-form-rating p.stars{
+	display: inline-block;
+	position: relative;
+	top: 10px;
+	left: 5px;
+}
+.woocommerce #reviews #comment{
+	height: 100%;
+}
+.woocommerce p.stars a{
+	font-size: 15px;
+	color: #222;
+}
+.product-index{
+	float: left;
+}
+.content-area{
+	width: 100%;
+} 
+
+.woocommerce-add-to-cart{
+	position: relative;
+	top: 350px;
+	text-align: center;
+}
+
+.woocommerce a.button{
+	width: 100%;
+	display: block;
+	text-align: center;
+	font-size: 11px;
+	color: #555;
+	text-transform: uppercase;
+	padding: 15px 10px;
+	background: #fff;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 99;
+	font-weight: inherit;
+}
+.woocommerce a.button:hover{
+	background: #fff;
+}
+.comment-title{
+	margin-bottom: 30px;
+}
+p.logged-in-as {
+	margin-bottom: 34px;
+}
+.comment-area-form {
+	padding-top: 30px;
+}
+.p-t-43 {
+	padding-top: 43px;
+}
+.au-btn {
+	cursor: pointer;
+}
+.m-t-0 {
+	margin-top: 0 !important;
+}
+/*style-test*/
+.sticky .featured-post {
+	border-top: 4px double #ededed;
+	border-bottom: 4px double #ededed;
+	color: #757575;
+	font-size: 13px !important;
+	height: auto;
+	width: 100%;
+	display: inline-block;
+	line-height: 3.692307692;
+	margin-bottom: 1.714285714rem;
+	text-align: center;
+	margin-top: 20px;
+}
+.search-custom {
+	padding-bottom: 50px;
+}
+
+.widget-sidebar .widget-title {
+	margin-bottom: 25px;
+	margin-top: 0px;
+}
+.widget-sidebar .widget_tag_cloud .widget-title{
+	margin-bottom: 25px
+}
+.widget-sidebar .widget {
+	margin-bottom: 25px;
+	padding: 20px;
+    background: #f6f7f8;
+}
+.widget-sidebar .widget.widget_text {
+	margin-bottom: 30px;
+}
+.widget_recent_entries ul li:last-child {
+	padding-bottom: 0;
+}
+.widget_recent_entries ul li:first-child {
+	padding-top: 0;
+}
+.widget-sidebar .widget.widget_search {
+	margin-bottom: 25px;
+}
+aside.widget-sidebar  .screen-reader-text {
+	display: none;
+}
+aside.widget-sidebar  select {
+	width: 100%;
+	height: 40px;
+}
+
+aside.widget-sidebar .widget_calendar table {
+	width: 100%;
+}
+aside.widget-sidebar .widget_calendar table tfoot tr td a{
+	color: #222 !important;
+}
+aside.widget-sidebar .widget_calendar table tbody tr td#today{
+	font-weight: bold;
+}
+aside.side-bar .widget_calendar table {
+	border-collapse: collapse;
+}
+aside.widget-sidebar .widget_calendar table,
+aside.widget-sidebar .widget_calendar th,
+aside.widget-sidebar .widget_calendar td {
+	border: 1px solid #767676;
+	padding: 5px 5px 5px 10px;
+}
+aside.widget-sidebar ul ul {
+	margin-left: 15px;
+}
+.widget_categories ul .cat-item{
+	display: list-item !important ;
+}
+.widget_rss h4 a {
+	color: #222;
+}
+aside.widget-sidebar .widget_nav_menu ul li {
+	display: list-item;
+}
+aside.widget-sidebar .widget_nav_menu ul li a{
+	color: #555;
+}
+aside.widget-sidebar .widget_nav_menu ul.sub-menu {
+	opacity: 1;
+	visibility: visible;
+	position: relative;
+	background: none;
+	-webkit-box-shadow: unset;
+	-moz-box-shadow: unset;
+	box-shadow: unset;
+	color: #555;
+	padding: 0;
+}
+aside.widget-sidebar .widget_nav_menu .menu-item a{
+	padding: 0;
+}
+aside.widget-sidebar .widget_nav_menu .sub-menu .menu-item-has-children>.sub-menu {
+	left: 0;
+}
+aside.widget-sidebar .widget_rss ul li {
+	margin-bottom: 20px;
+}
+aside.widget-sidebar .widget_rss ul li .rss-date {
+	display: flex;
+	font-style: italic;
+}
+aside.widget-sidebar .widget_rss ul li cite {
+	font-weight: bold;
+}
+aside.widget-sidebar .widget_rss ul li a.rsswidget {
+	font-weight: 500;
+}
+h1.site-title {
+	color: #222;
+}
+.blog-detail-1 .entry-content table {
+	border-collapse: collapse;
+}
+.blog-detail-1 .entry-content table,
+.blog-detail-1 .entry-content th,
+.blog-detail-1 .entry-content td {
+	border: 1px solid #767676;
+	padding: 5px 5px 5px 10px;
+}
+.blog-detail-1 .entry-content ul,
+.blog-detail-1 .entry-content ol {
+	list-style: none;
+}
+.blog-detail-1 .entry-content ul ul {
+	margin-left: 15px;
+}
+.blog-detail-1 .entry-content ol ol {
+	margin-left: 15px;
+}
+
+.alignleft{
+	float: left;
+	margin-right: 15px;
+}
+.alignright{
+	float: right !important;
+	margin-left: 15px;
+}
+.alignnone{
+	width: 100% !important;
+}
+.alignnone img{
+	max-width: 100% !important;
+	height: auto;
+}
+img.alignnone{
+	max-width: 100% !important;
+	height: auto;
+}
+.blog-detail-1 .entry-content img.size-thumbnail {
+	float: none;
+	margin-left: 0;
+}
+.blog-detail-1 .entry-content h2,h3,h4,h5 {
+	margin: 20px 0;
+}
+.blog-detail-1 .entry-content .page-links  span.current {
+	position: relative;
+	float: left;
+	padding: 0;
+	margin: 5px;
+	color: #5a6f7c;
+	text-decoration: none;
+	border-radius: 50px;
+	width: 37px;
+	height: 37px;
+	text-align: center;
+	line-height: 37px;
+	-webkit-box-shadow: 0 2px 10px 0 #d8dde6;
+	color: #fff;
+	box-shadow: 0 2px 10px 0 #d8dde6;
+	background: #222;
+	border: 1px solid #222;
+	cursor: pointer;
+}
+.blog-detail-1 .entry-content .page-links a span {
+	position: relative;
+	float: left;
+	padding: 0;
+	margin: 5px;
+	color: #5a6f7c;
+	text-decoration: none;
+	background-color: #fff;
+	border-radius: 50px;
+	width: 37px;
+	height: 37px;
+	text-align: center;
+	line-height: 37px;
+	border: 1px solid #eaeff5;
+	-webkit-box-shadow: 0 2px 10px 0 #d8dde6;
+	box-shadow: 0 2px 10px 0 #d8dde6;
+}
+.blog-detail-1 .entry-content .page-links {
+	display: flex;
+}
+.blog-detail-1 .entry-content .page-links a span:hover {
+	background-color: #222;
+	color: #fff;
+}
+.blog-detail-1 .entry-content .page-links span span {
+	display: inline-block ;
+}
+.blog-detail-1 .entry-content .page-links a {
+	display: inline-block;
+}
+.blog-detail-1 .entry-content .page-links .screen-reader-text,
+.blog-detail-1 .entry-content .page-links .page-links-title{
+	display: none;
+}
+.blog-detail-1 .entry-content  input {
+	width: 20%;
+	background: #222;
+	color: #fff;
+	border: none;
+	line-height: 45px;
+	display: inline-block;
+	padding: 4px 23px 0 18px; 
+	font-size: 13px;
+	transition: all .3s ease;
+	border-radius: 0;
+}
+.blog-detail-1 .entry-content label input {
+	height: 50px;
+	border: 1px solid #dde6ef;
+	margin-bottom: 10px;
+	box-shadow: none;
+	border-radius: 0;
+	background: #fbfdff;
+	font-size: 15px;
+	color: #445461;
+	font-weight: 400;
+	padding: 10px 16px;
+	line-height: 1.333333;
+	width: 100%
+}
+.comments-area .comment-list table {
+	border-collapse: collapse;
+}
+.comments-area .comment-list table,
+.comments-area .comment-list th,
+.comments-area .comment-list td {
+	border: 1px solid #767676;
+	padding: 5px 5px 5px 10px;
+}
+.comments-area .comment-list ul,
+.comments-area .comment-list ol {
+	list-style: none;
+}
+.comments-area .comment-list ul ul {
+	margin-left: 15px;
+}
+.comments-area .comment-list li a {
+	color: #222;
+}
+.comments-area .comment-respond a {
+	color: #222;
+}
+.comments-area .comment-list ul ul.children {
+	margin-left: 0px;
+}
+.comments-area .comment-list ol ol ol {
+	margin-left: 15px;
+}
+.comments-area .comment-list .comment-content h2 {
+	margin: 20px 0;
+}
+.comment-title h3 {
+	margin: 0;
+}
+.blog-detail-1 .entry-content .gallery {
+	margin-bottom: 20px;
+}
+.blog-detail-1 .entry-header  h2,
+h4.entry-title a {
+	word-break: break-all;
+}
+.com-list-cus {
+	margin-top: -27px;
+}
+.comments-area .comment-list .pingback {
+	margin-bottom: 20px;
+}
+.vcard-cus {
+	margin-left: -125px;
+}
+.wp-caption-text {
+	color: #707070;
+	color: rgba(51, 51, 51, 0.7);
+	font-family: "Noto Sans", sans-serif;
+	font-size: 12px;
+	font-size: 1.2rem;
+	line-height: 1.5;
+	padding: 0.5em 0;
+}
+.wp-caption.alignnone img {
+	height: auto;
+}
+.gallery-caption {
+	line-height: 1.4583;
+	padding: 0.5833em 0;
+}
+.bypostauthor > article .fn:after {
+}
+.aligncenter img{
+	width: auto !important;
+}
+.error-page p {
+	margin-bottom: 30px;
+}
+.error-page h1 {
+	margin-bottom: 20px;
+}
+.alignleft {
+    margin: 5px 35px 25px 0;
+}
+.aligncenter, div.aligncenter {
+    display: block;
+    margin: 5px auto 15px;
+}
+.wp-caption.alignright {
+    margin: 0px 0 0px 30px;
+}
+/* RESPONSIVE */
+
+@media (max-width: 1519px){
+	.section-pp{
+		height: auto !important;
+		
+	}
+}
+@media (max-width:1218px){
+	.sbi_item{
+		width: 95px !important;
+		float: left;
+	}
+}
+@media (max-width:1200px){
+	.comment-list .children {
+		padding-left: 90px;
+	}
+}
+
+@media (max-width:991px){
+	.comment-list .children {
+		padding-left: 60px;
+	}
+	.mh-about .vc_row .vc_col-md-7{
+		width: 100% !important ;
+	}
+	.mh-about .vc_row .vc_col-md-5{
+		width: 100% !important ;
+	}
+	.contact-r .vc_col-sm-4{
+		width: 100% !important;
+	}
+	.contact-r .vc_col-sm-8{
+		width: 100% !important;
+	}
+	.text-box-2 .vc_col-sm-4{
+		width: 100% !important;
+	}
+	#wp-admin-bar-vc_inline-admin-bar-link{
+		display: none;
+	}
+}
+@media (max-width:950px){
+	.comment-list .children {
+		padding-left: 30px;
+	}
+}
+@media(max-width: 805px){
+	#wp-admin-bar-edit{
+		display: none;
+	}
+}
+
+@media (max-width:768px){
+	.sbi_photo_wrap{
+		width: 80px;
+		float: left;
+	}
+}
+@media (max-width:653px){
+	.comment-list .children {
+		padding-left: 30px;
+	}
+}
+@media (max-width:600px){
+	body.logged-in {
+		margin-top: -46px;
+	}
+	.logged-in header {
+		margin-top: 46px;
+	}
+}
+@media (max-width:575px){
+	.comment-list ul.children {
+		margin-bottom: 150px;
+	}
+	.error-page .side-bar {
+		display: none;
+	}
+}
+.post-password-required .entry-header h2{
+    word-break: normal !important;
+}
+.entry-content ul,.comment-content ul{
+	list-style-type: disc !important;
+    margin-left: 20px;
+}
+.entry-content ul ul,.comment-content ul ul{
+ 	list-style-type: circle !important;
+}
+.entry-content ol,.comment-content ol{
+    list-style-type: decimal !important;
+    margin-left: 20px;
+}
+
+.custom-tags{
+	width: 100%;
+}
+.blog .entry-title{
+    margin-top: 20px;
+}
+.custom-pages .blog{
+	margin-bottom: 35px;
+}
+.blog-detail-1 .entry-title {
+    font-size: 36px !important;
+}
+.header-nav-menu ul li.menu-item-has-children ul li.menu-item-has-children ul.sub-menu {
+    right: 100% !important;
+    left: auto !important;
+    top: -1px !important;
+}
+
+.header-nav-menu ul > li.menu-item-has-children:last-child > ul.sub-menu{
+	left: auto;
+    right: 10%;
+}
+
+
+
+
+
+

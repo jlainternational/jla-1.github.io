@@ -1,0 +1,64 @@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <title>JLA Architecture</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="wrapper-content">
+    <div class="box1">
+        <object id="website-1" width="100%" data="https://jla-architecture.com/jlastudio/masterplan-urban-design/"></object>
+        <button class="home-button button1">Home</button>
+    </div>
+    <div class="box">
+        <object width="100%" data="https://jla-architecture.com/jlastudio/"></object>
+        <div class="buttons-wrapper">
+            <button class="wrapper-button website button1"></button>
+            <button class="wrapper-button design button2"></button>
+        </div>
+
+
+    </div>
+    <div class="box2">
+        <button class="home-button button3">Home</button>
+        <object id="website-2" width="100%" data="https://jla-architecture.com/jlastudio/e-design"></object>
+    </div>
+</div>
+
+<script>
+  $('.button1').click(function () {
+    $('.box').toggleClass('box-rotate');
+    $('.box1').toggleClass('box-rotate1');
+    $('.box2').toggleClass('box-rotate2');
+  });
+  $('.button2').click(function () {
+    $('.box').removeClass('box-rotate');
+    $('.box').toggleClass('box-rotate3');
+    $('.box1').removeClass('box-rotate1');
+    $('.box1').toggleClass('box-rotate');
+    $('.box2').removeClass('box-rotate2');
+    $('.box2').toggleClass('box-rotate1');
+  });
+
+  $('.button3').click(function () {
+    $('.box').toggleClass('box-rotate3');
+    $('.box1').toggleClass('box-rotate');
+    $('.box2').toggleClass('box-rotate1');
+  });
+
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+
+  function resizeIframe1(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+
+</script>
+
+
+</body>
+</html>

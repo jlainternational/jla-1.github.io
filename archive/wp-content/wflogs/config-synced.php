@@ -1,0 +1,6 @@
+<?php exit('Access denied'); __halt_compiler(); ?>
+******************************************************************
+This file is used by the Wordfence Web Application Firewall. Read 
+more at https://docs.wordfence.com/en/Web_Application_Firewall_FAQ
+******************************************************************
+a:19:{s:6:"apiKey";s:160:"27d9b1322fd1eae08f1253a8619a703cc6c6338c210837d9f47c9d8efeb33fbff7ba5011e96c91a7caaaa03752812cf53d3dd259d5a8dc57a3e7bbb0a8d9cc66f3a780ebb4fbbf9f5d59ede07b4180a9";s:6:"isPaid";b:0;s:7:"siteURL";s:28:"https://jla-architecture.com";s:7:"homeURL";s:28:"https://jla-architecture.com";s:14:"whitelistedIPs";s:0:"";s:9:"howGetIPs";s:0:"";s:25:"howGetIPs_trusted_proxies";s:0:"";s:13:"pluginABSPATH";s:34:"/home/jlaarc5/public_html/archive/";s:11:"other_WFNet";b:1;s:9:"serverIPs";s:36:"["192.145.239.251","74.124.203.191"]";s:15:"blockCustomText";s:0:"";s:13:"timeoffset_wf";s:1:"0";s:23:"advancedBlockingEnabled";s:1:"1";s:21:"betaThreatDefenseFeed";b:0;s:20:"disableWAFIPBlocking";s:1:"0";s:13:"patternBlocks";s:2:"[]";s:13:"countryBlocks";s:153:"{"blocks":[],"action":"block","loggedInBlocked":"","bypassRedirURL":"","bypassRedirDest":"","bypassViewURL":"","redirURL":"","cookieVal":"5ba791695fc21"}";s:11:"otherBlocks";s:33:"{"blockedTime":"300","blocks":[]}";s:8:"lockouts";s:36:"{"lockedOutTime":1800,"lockouts":[]}";}

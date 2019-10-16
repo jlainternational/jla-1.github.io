@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: tatee/functions.php:144
+msgid "%s"
+msgstr ""
+
+#. Text in function
+#: tatee/comments.php:9
+msgid "<< Load Older Comments"
+msgstr ""
+
+#. Text in function
+#: tatee/comments.php:10
+msgid ">> Load Newer Comments"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#. Text in function
+#: tatee/author.php:3
+msgid "All posts by : %s"
+msgstr ""
+
+#. Text in echo
+#: tatee/archive.php:3
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Background Image"
+msgstr ""
+
+#. Text in function
+#: tatee/category.php:3
+msgid "Category Archives : %s"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Choose Style Element"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Choose Style for Element"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Chose \"Yes\" if want show class row"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Contact Form 7"
+msgstr ""
+
+#. Text in function
+#: tatee/archive.php:3
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:164
+msgid "Default sidebar"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+msgid "Dismiss this notice"
+msgstr ""
+
+#. Text in function
+#: tatee/archive.php:39
+#: tatee/author.php:28
+#: tatee/category.php:28
+#: tatee/index.php:26
+#: tatee/search.php:34
+#: tatee/tag.php:28
+msgid "Featured post"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Have class row"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Home About Us Specilization"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Home About Us Team"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Home Contact"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Home Creative Showcase"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Home One Page Contact"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Home One Page Description-Counter"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Home One Page Latest Projects"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Home One Page People Say"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Home One Page Team"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Import data example tatee"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Instagram Feed"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+#: tatee/functions.php:410
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+#: tatee/functions.php:410
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+#: tatee/functions.php:410
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in echo
+#: tatee/404.php:13
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#. Text in function
+#: tatee/comments.php:21
+msgid "Leave a comment"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Main Home About Us"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Main Home Clients"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Main Home Latest Blog"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Main Home Latest Projects"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Main Home People Say"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Main Home Specilization"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:164
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "None"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "One Click Demo Import"
+msgstr ""
+
+#. Text in function
+#: tatee/404.php:12
+msgid "Oops! That page can’t be found."
+msgstr ""
+
+#. Text in function
+#: tatee/page.php:160
+#: tatee/single.php:160
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: tatee/page.php:160
+#: tatee/single.php:160
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+#: tatee/functions.php:410
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:1
+msgid "Primary Navigation Menu (Use For All Page)"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+#: tatee/functions.php:410
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+msgid "Return to the Dashboard"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:164
+msgid "Search here"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:1
+msgid "Second Navigation Menu (Menu For Home Page With Menu Bar)"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Select Image Background"
+msgstr ""
+
+#. Text in function
+#: tatee/footer.php:56
+msgid "Social"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+#: tatee/functions.php:410
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. Text in function
+#: tatee/search.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: tatee/tag.php:3
+msgid "Tag Archives : %s"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Text Box 2"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Theme Common"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#. Text in function
+#: tatee/archive.php:54
+#: tatee/author.php:43
+#: tatee/category.php:43
+#: tatee/index.php:43
+#: tatee/page.php:228
+#: tatee/search.php:58
+#: tatee/single.php:228
+#: tatee/tag.php:43
+#: tatee/template/blog-grid-sidebar.php:66
+msgid "This is sidebar. You have to add some widget"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+msgid "Update Required"
+msgstr ""
+
+#. Text in function
+#: tatee/framework/class-tgm-plugin-activation.php:1
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Vertical Slide About Us"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Vertical Slide Choose Us"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Vertical Slide Contact"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Vertical Slide Latest Works"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Vertical Slide Testimonial"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Vertical Slide What we Do"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:410
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: tatee/functions.php:152
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: tatee/search.php:8
+msgid "results found for the keyword: "
+msgstr ""
